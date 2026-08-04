@@ -3,7 +3,7 @@ name: Daily Scrobble
 on:
   schedule:
     - cron: "38 5 * * *"
-      timezone: "America/New_York"
+      timezone: "Asia/Manila"
   workflow_dispatch:
 
 jobs:
